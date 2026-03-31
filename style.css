@@ -81,7 +81,7 @@ p {
     flex: 0 0 auto;
 }
 .right-col img {
-    max-width: 200px;
+    max-width: 300;
     height: auto;
     display: block;
     margin-left: 50px;
