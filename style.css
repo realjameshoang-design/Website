@@ -22,7 +22,6 @@ body {
 nav ul li {
     list-style: none;
     display: inline-block;
-    margin-right: 30px;
 }
 
 nav ul li a {
